@@ -1,8 +1,16 @@
 .row{
     padding: 20px;
-    background-color: #e4837cda;
+    
+   
+    
 }
-
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 h1, h3{
     display: inline;
+}
+#exp{
+    background-color:rgb(245, 200, 194, 100%)
+
 }

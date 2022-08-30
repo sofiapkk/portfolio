@@ -1,19 +1,20 @@
 .row{
-    padding: 20px
+    padding: 20px;
     
 }
 div{
-    background-color: #e4837cda;
+    background-color:rgba(91, 142, 143, 80%);
+    font-size:large;
     color:#000000da;
     border-color: transparent;
     text-align: center;
 }
 /*etiqueta nombre*/
 #nombre{
-    font-family:sans-serif;
+    font-family:Arial, Helvetica;
     font-size: xx-large;
     font-weight: bold;
-    margin-top: 10px;
+    margin-top: 0px;
     
 }
 /*etiqueta titulo*/
@@ -21,7 +22,7 @@ div{
     margin-left: 1px;
     font-style: italic;
     font-size: large;
-    font-family:'Courier New', Courier, monospace
+    font-family:Arial, Helvetica, sans-serif;
 }
 /*estilo de foto*/
 @media (min-width: 576px){
@@ -29,8 +30,9 @@ div{
         position: absolute;
         width: 15%;
         border-radius: 50%;
-        border-style:dotted;
-        top: 61%;
+        border-style:solid;
+        border-color: white;
+        top: 51%;
         right: 82%;
         
     

@@ -1,6 +1,7 @@
 .row{
     padding: 20px;
-    background-color: #e4837cda;
+    
+    
 }
 h1, h3{
     display: inline;
@@ -15,3 +16,9 @@ h1, h3{
 .img-pro{
      box-shadow: 10px 10px 20px black;
 } 
+#pro{
+background-color:rgb(245, 200, 194, 100%)
+}
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

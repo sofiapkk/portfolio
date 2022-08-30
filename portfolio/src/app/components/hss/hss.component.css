@@ -1,8 +1,14 @@
 .row{
-    background-color:#e4837cda;
+    
     padding: 20px;
     
 }
 div{
-    background-color: #e4837cda;
+    background-color:rgb(245, 200, 194, 50%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+#hss{
+    background-color:rgb(245, 200, 194, 100%);
 }
