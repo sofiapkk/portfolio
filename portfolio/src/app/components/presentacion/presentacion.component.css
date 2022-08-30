@@ -3,6 +3,8 @@
 }
 div{
     background-color: #e4837cda;
+    color:#000000da;
+    border-color: transparent;
     text-align: center;
 }
 /*etiqueta nombre*/
