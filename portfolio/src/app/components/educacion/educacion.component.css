@@ -11,8 +11,8 @@ h1, h3{
     display: inline;
 }
 #edu{
-    background-color:rgb(245, 200, 194, 100%) ;
-    
+    background-color:rgb(245, 200, 194, 40%) ;
+   color: rgb(116, 113, 113);
 }
 div{
     font-family: Verdana, Geneva, Tahoma, sans-serif;

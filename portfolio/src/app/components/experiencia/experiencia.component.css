@@ -6,11 +6,13 @@
 }
 div{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 h1, h3{
     display: inline;
 }
 #exp{
-    background-color:rgb(245, 200, 194, 100%)
-
+    background-color:rgb(245, 200, 194, 40%);
+    font-style:normal;
+    color:rgb(116, 113, 113)
 }
