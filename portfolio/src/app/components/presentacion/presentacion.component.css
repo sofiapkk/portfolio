@@ -47,7 +47,11 @@ div{
             border-radius: 50%;
             border-style:solid;
             border-color: white;
+
             top: 72%;
+
+            top: 48%;
+
             left: 5%;
      }
     }
