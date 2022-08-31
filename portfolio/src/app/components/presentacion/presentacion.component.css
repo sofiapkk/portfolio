@@ -14,7 +14,7 @@ div{
     font-family:'Times New Roman', Times, serif;
     font-size: xx-large;
     font-weight: bold;
-    margin-top: 0px;
+    margin-top: 30px;
     color: rgb(177, 177, 177);
     
 }
@@ -27,43 +27,36 @@ div{
     color: rgb(177, 177, 177);
 }
 /*estilo de foto*/
-@media (min-width: 576px){
+
      #foto{
-        position: absolute;
+        position:fixed;
         width: 15%;
-        border-radius: 50%;
+        border-radius: 100%;
         border-style:solid;
         border-color: white;
         top: 51%;
         right: 82%;
         
+        
     
      }
-        }
-        @media (max-width: 576px){
-            #foto{
-                position: absolute;
-                width: 25%;
-                top: 200px;
-                border-radius: 50%;
-                border-style: dotted;
-                
-            }
-            #nombre{
-                
-                margin-left: 30%;
-                
-            }
-            #titulo{
-                
-                margin-left: 30%;
-            }
+     @media (max-width: 768px){
+        #foto{
+            position:absolute;
+            width: 60%;
+            border-radius: 50%;
+            border-style:solid;
+            border-color: white;
+            top: 55%;
+            left: 20%;
+     }
+    }
 
-        }
+        
 
 
 #acerkdemi{
     color: rgb(87, 87, 87);
 }
-     
+ 
 
