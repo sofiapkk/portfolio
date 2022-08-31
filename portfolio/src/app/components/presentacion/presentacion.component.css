@@ -43,12 +43,12 @@ div{
      @media (max-width: 768px){
         #foto{
             position:absolute;
-            width: 60%;
+            width: 20%;
             border-radius: 50%;
             border-style:solid;
             border-color: white;
-            top: 55%;
-            left: 20%;
+            top: 72%;
+            left: 5%;
      }
     }
 
