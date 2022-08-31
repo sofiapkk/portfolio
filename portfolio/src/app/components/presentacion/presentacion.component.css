@@ -29,7 +29,7 @@ div{
 /*estilo de foto*/
 
      #foto{
-        position:fixed;
+        position:absolute;
         width: 15%;
         border-radius: 100%;
         border-style:solid;
