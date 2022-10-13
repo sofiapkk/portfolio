@@ -16,6 +16,10 @@ persona: persona = new persona ("","","")
     this.personaService.getPersona().subscribe(data => {this.persona = data});}
   
   
+
+
+
+
 }
 
 
