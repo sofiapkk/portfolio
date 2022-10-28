@@ -31,9 +31,9 @@ div{
      #foto{
         position:absolute;
         width: 15%;
-        border-radius: 100%;
+        border-radius: 0%;
         border-style:solid;
-        border-color: white;
+        border-color:#f5c8c2;
         top: 51%;
         right: 82%;
         
