@@ -3,7 +3,6 @@ import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
 import { persona } from '../Model/persona.model';
 
-
 interface PersonaServiceInterface {
   getPersona(): void;
   }
